@@ -5,3 +5,5 @@ TSN: https://ataide0.sman1asjap.my.id/tsn.m3u8
 cctv 5: https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 
 Star Sports 1 hindi: http://41.205.93.154/STARSPORTS1/index.m3u8
+
+Unite8 Sports 1 HD: https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/y835-iiaw/chunklist_i1.m3u8
